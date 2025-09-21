@@ -1,0 +1,21 @@
+# 📊 Supply Chain Dashboard – Power BI
+
+## 🎯 Objetivo
+Visualizar exportaciones, inventarios y variación climática para identificar patrones en la cadena de suministro.
+
+## 📂 Dataset
+- Exportaciones agrícolas (Kaggle/FAO/World Bank).
+- Clima histórico (NOAA/Kaggle).
+
+## 📌 KPIs
+- Exportaciones totales.
+- Top 5 productos y países destino.
+- Inventario disponible vs exportado.
+- Variación climática vs demanda.
+
+## 📊 Dashboard
+![Preview](./images/dashboard_preview.png)
+
+## 🛠️ Tecnologías
+- Power BI
+- Excel/CSV (dataset)
